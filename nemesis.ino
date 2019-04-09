@@ -20,10 +20,10 @@ int ir1 = 2;
 int ir2 = 3;
 int ir3 = 4;
 int ir4 = 5;
-int ir11 = HIGH;
-int ir12 = HIGH;
-int ir13 = HIGH;
-int ir14 = HIGH;
+int ir11 = LOW;
+int ir12 = LOW;
+int ir13 = LOW;
+int ir14 = LOW;
 
 void setup()
 {
